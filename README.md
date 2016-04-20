@@ -10,3 +10,8 @@ A place for coming together to make stuff happen!
 - Divy up project ownership areas
 - Decide on hosting?
 - Create local dev environment
+
+## Things donut is interested in
+- Using a framework that isn't Angular 1.x
+- Web Components?
+- Lightweight cloud hosting
